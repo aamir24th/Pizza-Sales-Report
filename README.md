@@ -28,7 +28,8 @@ This Power BI project analyzes a full year of sales data from a fictional pizza 
 - Proposed promotions based on seasonal trends and customer preferences  
 
 ## 📁 File Included
-- `Pizza Sales Report.pbix` – Power BI project file  
+- [🍕 Pizza Sales Report.pbix](https://github.com/username/repo-name/blob/main/Pizza%20Sales%20Report.pbix) – Power BI project file
+  
 
 ## 📷 Screenshots 
 ![image](https://github.com/user-attachments/assets/73e8cb00-f52e-47c4-a230-254fc14690fc)
